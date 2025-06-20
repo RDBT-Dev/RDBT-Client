@@ -1,5 +1,3 @@
-# Support @ https://discord.gg/NA9xF4uVa9
-
 # Rdbt Client V4
 
 This free and open-source mining macro can help you automate tasks on hypixel skyblock.
@@ -53,15 +51,6 @@ https://github.com/user-attachments/assets/3b428444-90a0-424c-bfa7-c295fee93c2e
 ## Scatha Usage
 
 VIP Only.
-
-## Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
 
 ## License
 
