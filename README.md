@@ -1,56 +1,69 @@
-# 🌟 Feature List
+# Support @ https://discord.gg/NA9xF4uVa9
 
-## 🛠️ Current Features
+# Rdbt Client V4
 
-### 🏹 Commission
-- No etherwarp required.
-- Pidgeonless system.
-- Specialized for melee slayer commissions.
-- Enhanced mining efficiency.
+This free and open-source mining macro can help you automate tasks on hypixel skyblock.
+This client is almost entirely AI generated, and yet it still can outpreform the competition.
 
-### 💎 Gemstone
-- Blue Cheese swap support.
-- Advanced strafing movement.
-- Optimized for faster mining.
-- Integrated mob killer feature.
+Contributions are always welcome! Remember to star the repo at the top of the page.
 
-### 🧪 Powder Delayed
-- Smart chest detection.
-- Mob killer capability.
-- Drill swapping functionality.
+## Features
 
-### 🪨 Cobblestone
-- Customizable to suit various designs.
-- Auto warp back feature for efficiency.
+- Gemstone Macro
+- Ore Macro
+- Scatha Macro (VIP Only.)
+- Commission Macro
+- Advanced Failsafes
+- Automated Response Bot
 
-### 🏜️ Sand
-- Mining speed up to 60 blocks per second.
+## Installation
 
-### ⚒️ MiningQol
-- Eliminates the need for drill reset.
-- Sticky mining feature.
-- Tick gliding for smoother operation.
+Install [Chattriggers](https://chattriggers.com/#download) and launch. 
 
-### 🍄 Glowing Mushroom
-- Nuker for rapid clearing.
-- ESP for enhanced perception.
-- Route Walker to navigate through waypoints.
-- Highly customizable routes for efficiency.
+Inside minecraft run the command /ct files and open the modules folder.
 
-### 📦 Misc Features
-- General Nuker.
-- Automated Harp playing.
-- Ghost blocks handling.
-- Hub fishing optimization.
-- X-Ray for enhanced visibility.
-- Armor swapping for situational needs.
-- Slayer: Advanced combat capabilities.
-- Ghost: Enhanced stealth and invisibility features.
-- Failsafe Bot: Increased safety and reliability.
+Download the latest [Rdbt Client](https://github.com/rdbtCVS/rdbtclient/archive/refs/heads/main.zip) and unzip it in the folder.
 
-## 🌐 Upcoming Features
+Ensure the new folder is called "RdbtClient".
 
-- 🪨 Obsidian: Specialized mining techniques.
-- 🌌 Quartz: Efficient quartz mining.
-- 🐉 Scatha: Advanced dragon handling.
-- 📚 Bestiary: Comprehensive creature cataloging.
+Run the command /ct reload.
+
+You can open the GUI with /rdbt
+
+Macro keybinds are set inside the vanilla keybinds settings in minecraft. 
+
+## Showcase
+
+Commission:
+
+https://github.com/user-attachments/assets/1dd72f40-d357-4131-b2ba-14891d604ace
+
+Scatha (VIP ONLY):
+
+https://github.com/user-attachments/assets/0ee78a77-73bb-4bb8-8a45-67a050796ca4
+
+Gemstone:
+
+https://github.com/user-attachments/assets/2d7656f2-0374-42be-8508-fceed08e6472
+
+Anti-Staff:
+
+https://github.com/user-attachments/assets/3b428444-90a0-424c-bfa7-c295fee93c2e
+
+## Scatha Usage
+
+VIP Only.
+
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+
+## License
+
+[Unlicense](https://choosealicense.com/licenses/unlicense/)
+
